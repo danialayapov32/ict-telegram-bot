@@ -225,4 +225,5 @@ def callback(call):
 
 print("🤖 Bot іске қосылды!")
 
+keep_alive()
 bot.infinity_polling()
